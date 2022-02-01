@@ -1,1 +1,1 @@
-# Study Algorithm with Python
+# Learning Algorithms in Python
